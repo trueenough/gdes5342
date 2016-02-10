@@ -1,0 +1,28 @@
+#container {
+	margin: 100px;
+}
+
+.title {
+	font-family: 'Calibri', sans-serif;
+	font-size: 28px;
+	color: #00cc00;
+	letter-spacing: 0.08em;
+	word-spacing: 0.1em;
+	line-height: 0em;
+	text-align: left;
+	text-rendering: optimizeLegibility;
+	text-indent: 0;
+	margin-bottom: 0.75em;
+}
+
+p {
+	width: 500px;
+	font-family: 'Calibri', sans-serif;
+	font-size: 16px;
+	color: #0a1a7d;
+	line-height: 1.5em;
+	text-align: left;
+	text-rendering: optimizeLegibility;
+	text-indent: 0;
+	margin-bottom: 2em;
+}
